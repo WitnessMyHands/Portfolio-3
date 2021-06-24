@@ -1,7 +1,11 @@
 # Portfolio-3
 Welcome to my updated portfolio (version 3.0)!
 
-* This update hones in on my strongest features with a focus on interactive elements. The idea is to modify this further for the final presentation, giving the user a more animated experience.
+[Link to GitHub Repository](https://github.com/WitnessMyHands/Portfolio-3)
+
+[Link to Live Site](https://witnessmyhands.github.io/Portfolio-3/)
+
+* This update hones in on my favorite features so far from the coding bootcamp, with a focus on interactive elements. The idea is to modify this further for the final presentation, giving the user a more animated experience.
 
 ## About
 Clickable links allow the user to smoothly transition to the About area where information about me can be found.
