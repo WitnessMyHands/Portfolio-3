@@ -1,6 +1,10 @@
 # Portfolio-3
 Welcome to my updated portfolio (version 3.0)!
 
+[Link to GitHub Repository](https://github.com/WitnessMyHands/Portfolio-3)
+
+[Link to Live Site](https://witnessmyhands.github.io/Portfolio-3/)
+
 * This update hones in on my strongest features with a focus on interactive elements. The idea is to modify this further for the final presentation, giving the user a more animated experience.
 
 ## About
